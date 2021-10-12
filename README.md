@@ -18,6 +18,10 @@ Worker Lives Matter！ 是由中国民间程序员发起的一个项目，针对
 + 每日凌晨整理数据的总表 https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js
 + GitHub 每日备份 https://github.com/WorkerLivesMatter/WorkerLivesMatter
 
+# 扩大影响
+希望大家去问题下面链接点赞转发，扩大此项目的影响力。
+- 知乎：https://www.zhihu.com/question/491803439
+
 ## 交流群
 
 官方 QQ 二群 965192435，一群 186964319 已满。
