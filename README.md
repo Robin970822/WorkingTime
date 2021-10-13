@@ -1,6 +1,7 @@
 # WorkingTime
 
-![](logo.png)
+![](logo+文字.png)
+
 **Worker Lives Matter！打工人也需要生活！**
 
 # 项目介绍
