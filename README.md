@@ -1,4 +1,4 @@
-# WorkerLivesMatter
+# WorkingTime
 **Worker Lives Matter！打工人也需要生活！**
 
 # 项目介绍
@@ -32,4 +32,3 @@ Worker Lives Matter！ 是由中国民间程序员发起的一个项目，针对
 感谢 一学习就犯困 Tibbers Ale 秃头才能变强 和所有贡献了数据的兄弟们。
 感谢 richar 提供方法解决了恶意编辑的问题。
 
-![](logo.png)
