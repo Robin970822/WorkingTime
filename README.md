@@ -17,12 +17,12 @@ Worker Lives Matter！ WorkingTime 是由中国民间程序员发起的一个项
 # 如何奉献自己的一份力
 我们在维护此项目期间收到了很多仁人志士的帮助和建议，在此先感谢所有为此项目提供数据和为此项目建言献策的各位同胞！
 
-然后，如果您愿意分享自己部门的作息情况，请点击 https://docs.qq.com/form/page/DUUdPbWhnWVF3ekh6 此问卷，发布自己公司部门的作息时间以及其他信息。（本来之前是直接在表格编辑，但是遭到了不怀好意者的恶意增删，所以我们只能以填问卷的形式自动增加内容，望同胞们理解！）
+然后，如果您愿意分享自己部门的作息情况，请点击 https://docs.qq.com/form/page/DWmxJZ1ZxVHhBblJB 此问卷，发布自己公司部门的作息时间以及其他信息。（本来之前是直接在表格编辑，但是遭到了不怀好意者的恶意增删，所以我们只能以填问卷的形式自动增加内容，望同胞们理解！）
 
 # 重要链接
-+ 实时查看数据的收集表 https://docs.qq.com/sheet/DUXVoa3BsRG1HYlZE?tab=BB08J2
+
 + 每日凌晨整理数据的总表 https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js
-+ GitHub 每日备份 https://github.com/WorkerLivesMatter/WorkerLivesMatter
++ GitHub 备份 https://github.com/WorkerLivesMatter/WorkerLivesMatter
 
 # 扩大影响
 希望大家去问题下面链接点赞转发，扩大此项目的影响力。
