@@ -5,7 +5,11 @@
 由于本项目的公众号，共享文档，小程序均遭到永久封禁，本项目已暂停运营。目前，团队已将最新的数据上传至 Github，供大家下载查看。
 “溯洄从之，道阻且长”，我们和大家的路仍在走，这个世界仍将运转。感谢关注支持这个项目的所有人。
 
-请尽快备份，点击链接直接下载： https://www.jianguoyun.com/p/DeX8nxcQpP3ZCRidm5YE 
+请尽快备份，点击链接直接下载：https://www.jianguoyun.com/p/DQKVoD0QpP3ZCRiVm5YE 
+
+官网：https://tutou.site
+
+官网有可能被封禁，我们能保证的唯一永久地址是 **GitHub WorkingTime**：https://github.com/WorkerLivesMatter/WorkingTime
 
 ## 项目封禁历史
 
@@ -53,10 +57,6 @@
     ![](logo_WorkingTime.png)
 
 ## 项目介绍
-
-官网：https://tutou.site
-
-官网有可能被封禁，我们能保证的唯一永久地址是 **GitHub WorkingTime**：https://github.com/WorkerLivesMatter/WorkingTime
 
 WorkingTime公司作息表是由中国民间程序员自行搭建的数据平台，用于各行业从业者分享自身的作息时间表。本项目自发布以来，即受到以互联网从业者为代表的各界人士之关注，平台的形式也由最初的共享文档发展为如今的微信小程序。平台开发团队正逐步完善平台的功能，进一步扩大平台的影响力，将有益的共享信息带给更多的从业者。
 
