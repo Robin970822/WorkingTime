@@ -11,6 +11,10 @@
 
 官网有可能被封禁，我们能保证的唯一永久地址是 **GitHub WorkingTime**：https://github.com/WorkerLivesMatter/WorkingTime
 
+
+项目组联系方式： WorkingTime.cn@gmail.com
+
+
 ## 项目封禁历史
 
 - 10.13
@@ -78,13 +82,6 @@ WorkingTime公司作息表是由中国民间程序员自行搭建的数据平台
 首先，我们对在项目开发和维护期间给我们提供帮助和建议的所有人士表示衷心地感谢！
 
 如果您想向我们的平台分享您个人的作息时间表，请通过官网 https://www.tutou.site 提交数据
-
-## 联系我们
-
-如果您对本项目有任何意见和建议，或对数据条目有任何异议，请通过如下方式联系我们。我们热切希望收到大家的反馈！
-
-+ 邮箱：WorkingTime.cn@gmail.com
-
 
 ## 声明
 
