@@ -6,7 +6,7 @@
 “溯洄从之，道阻且长”，我们和大家的路仍在走，这个世界仍将运转。感谢关注支持这个项目的所有人。
 
 请尽快备份，点击链接直接下载：https://tutou.site/workingtime.rar
-
+可以通过知乎支持我们：https://www.zhihu.com/question/494424215/answer/2194301396
 官网：https://tutou.site
 
 官网有可能被封禁，我们能保证的唯一永久地址是 **GitHub WorkingTime**：https://github.com/WorkerLivesMatter/WorkingTime
